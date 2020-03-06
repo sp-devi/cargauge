@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CarGauge.qml</file>
+        <file>assets/background.png</file>
+        <file>assets/DejaVuSansMono-Bold.ttf</file>
+        <file>assets/DejaVuSansMono.ttf</file>
+        <file>assets/font.png</file>
+        <file>assets/gauge.png</file>
+        <file>assets/needle.png</file>
+    </qresource>
+</RCC>
